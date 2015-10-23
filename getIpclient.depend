@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1445568626 source:/home/bufan/Programming/c++/c++实验/getIpclient/main.cpp
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+	<iostream>
+	<fstream>
+	<vector>
+	"md5.h"
+
+1431758297 /home/bufan/Programming/c++/c++实验/getIpclient/md5.h
+	<string.h>
+
+1431758297 source:/home/bufan/Programming/c++/c++实验/getIpclient/md5.cpp
+	"md5.h"
+
